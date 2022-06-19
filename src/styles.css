@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --nolly-green: #253235;
+  --nolly-mint: #bee0e8;
+}
+
+body {
+  background-color: var(--nolly-green);
+  font-size: 24px;
+}
+
+.logo {
+  font-family: "Blaka", cursive;
+  font-size: 100%;
+  color: var(--nolly-mint);
+  background-color: var(--nolly-green);
+  text-align: center;
+  top: 5%;
+  bottom: 5%;
+  position: fixed;
+  width: 100%;
+  height: 7.5%;
+  padding-top: 1%;
+}
+
+.memes-page {
+  border-radius: 5px;
+  width: 75%;
+  height: 75%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+@media screen and (min-width: 1000px) {
+  .memes-page {
+    width: 30%;
+    height: 30%;
+  }
+}
