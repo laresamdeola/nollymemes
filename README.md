@@ -22,5 +22,3 @@ The next stage for ***nollymemes*** would be to build a login functionality wher
 
 #### LIVE 📺
 You can visit the live site and discover popular Nollywood meme stars like aki and pawpaw etc [here](nollymemes.netlify.app)
-
-![nollymemes](nollymemes_home.jpg)
