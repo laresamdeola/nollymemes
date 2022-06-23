@@ -1,11 +1,13 @@
-### [nollymemes](nollymemes.netlify.app)
+#### [nollymemes](nollymemes.netlify.app)
+![tools1](https://img.shields.io/badge/tools-react-success) ![status](https://img.shields.io/badge/status-live-success)
+
 ***nollymemes*** is a web portal of Nollywood memes.
 
-[aki](aki.gif)
+![aki](aki.gif)
 
 
-#### TOOLS
-***nollymemes*** was built with React with other dependencies like framer-motion for the animations and react-spinners for the page loader. This is the first version and it has no search functionality on purpose. The reason for this is as a fan of memes, I rarely type in a search keyword whenever I need a meme, I just scroll through the memes I have and then I find one that captures that moment.
+#### TOOLS 🛠️
+***nollymemes*** was built with React with other dependencies like framer-motion for the animations and react-spinners for the page loader. This is the first version and it has no search functionality on purpose. The reason for this is as a fan of memes, I rarely type in a search keyword whenever I need a meme, I just scroll through the memes I have and then I find one that captures that moment. When it comes to memes, discovery > intent 😉.
 
 - [x] HTML5
 - [x] CSS3
@@ -15,8 +17,8 @@
 - [x] GIT
 - [x] NETLIFY 
 
-#### FUTURE DEVELOPMENTS
+#### FUTURE DEVELOPMENTS ✈️
 The next stage for ***nollymemes*** would be to build a login functionality whereby users can save any meme they like on the home page.
 
-#### LIVE
+#### LIVE 📺
 You can visit the live site and discover popular Nollywood meme stars like aki and pawpaw etc [here](nollymemes.netlify.app)
