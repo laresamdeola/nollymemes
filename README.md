@@ -1,6 +1,7 @@
 ### [nollymemes](nollymemes.netlify.app)
-***nollymemes*** is a web portal of Nollywood memes. 
-![aki](aki.gif)
+***nollymemes*** is a web portal of Nollywood memes.
+
+[aki](aki.gif)
 
 
 #### TOOLS
