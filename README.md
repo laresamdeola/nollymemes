@@ -1,4 +1,4 @@
-#### [nollymemes](nollymemes.netlify.app)
+#### [nollymemes](https://nollymemes.netlify.app/)
 ![tools1](https://img.shields.io/badge/tools-react-success) ![status](https://img.shields.io/badge/status-live-success)
 
 ***nollymemes*** is a web portal of Nollywood memes.
@@ -21,4 +21,4 @@
 The next stage for ***nollymemes*** would be to build a login functionality whereby users can save any meme they like on the home page.
 
 #### LIVE 📺
-You can visit the live site and discover popular Nollywood meme stars like aki and pawpaw etc [here](nollymemes.netlify.app)
+You can visit the live site and discover popular Nollywood meme stars like aki and pawpaw etc [here](https://nollymemes.netlify.app/)
